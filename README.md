@@ -1,5 +1,5 @@
-#My first ReadMe file
+# My first ReadMe file
 
 Welcome!
 
-[Code Institute] (https://codeinstitute.net)
+[Code Institute](https://codeinstitute.net)
